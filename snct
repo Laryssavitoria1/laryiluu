@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            text-align: center;
+            background: radial-gradient(circle at top left, #ffffff, #87bb94);
+            border: 5px solid #1e521c;
+        }
+       h3{
+        text-align: start;
+       }
+   
+    </style>
+</head>
+<body>
+    <h1>O que é a SNCT? (semana de tecnologia e ciência)</h1>
+    <hr>
+    <h3>A Semana Nacional de Ciência e Tecnologia (SNCT) é um evento anual promovido pelo Ministério da Ciência, Tecnologia e Inovações (MCTI) do Brasil, que se destaca como uma das maiores e mais importantes iniciativas de divulgação científica do país. Com o objetivo de promover a ciência e a tecnologia e incentivar a educação em áreas científicas e tecnológicas, a SNCT desempenha um papel crucial na aproximação entre a pesquisa acadêmica e a sociedade.<br>
+        A principal missão da SNCT é fomentar o interesse pela ciência e pela tecnologia, tornando esses temas mais acessíveis e compreensíveis para o público geral. O evento busca despertar a curiosidade e a paixão pela ciência, especialmente entre os jovens, e estimular a formação de novos talentos nas áreas de ciência, tecnologia, engenharia e matemática (STEM). Além disso, a SNCT pretende fortalecer a compreensão pública dos impactos das inovações tecnológicas e científicas no cotidiano e no desenvolvimento sustentável da sociedade.<br>
+        a Semana Nacional de Ciência e Tecnologia é uma celebração anual da ciência e da tecnologia que promove o acesso à informação científica, estimula o interesse pela pesquisa e reforça a importância da educação em ciência e tecnologia. Por meio de uma ampla gama de atividades e iniciativas, a SNCT contribui significativamente para o desenvolvimento da cultura científica e tecnológica no Brasil, e reafirma o compromisso com a inovação e o progresso contínuo da sociedade.
+    </h3>
+    <img src="https://portal.ufrrj.br/wp-content/uploads/2023/06/mini-card-site1-1.jpg" width="1000" height="500">
+    <h1>Nela será incluso:</h1>
+    <h2>Exposições e Feiras:</h2>
+    <img src="https://www.pctec.unb.br/images/Eventos/2022/SNCT/SNCT-04.jpeg" width="1000" height="500">
+    <p>A SNCT frequentemente conta com exposições de projetos e inovações científicas e tecnológicas, permitindo que os visitantes vejam de perto as mais recentes descobertas e desenvolvimentos em diversas áreas.</p>
+    <h2>Palestras e Seminários:</h2>
+    <img src="https://portal.ifpe.edu.br/vitoria/wp-content/uploads/sites/24/2023/05/750bbdcb-9bc0-4edd-a471-d732100ccd56.jpeg" width="1000" height="500">
+    <p> O evento pode incluir palestras de cientistas, pesquisadores e especialistas que discutem suas áreas de pesquisa e as tendências atuais na ciência e tecnologia.</p>
+    <h2>Oficinas e Atividades Interativas:</h2>
+    <img src="https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2023/10/20a-snct-instituto-federal-de-educacao-ciencia-e-tecnologia-do-amapa-ifap-promove-acoes-inovadoras-durante-a-semana-nacional/whatsapp-image-2023-10-05-at-10-58-30.jpeg/@@images/6555cbac-1d7c-45a4-a4dc-90627a5f4401.jpeg" width="1000" height="500">
+    <p>São oferecidas atividades práticas e interativas para envolver estudantes e o público em geral, estimulando o interesse pela ciência e pela tecnologia.</p>
+ <img src="https://intranet.cbt.ifsp.edu.br/snct/images/snct_2024.png">
+
+
+</body>
+</html>
